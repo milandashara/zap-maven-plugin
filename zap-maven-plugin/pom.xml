@@ -9,7 +9,7 @@
   <url>http://maven.apache.org</url>
 
   <properties>
-    <zapApiPath>${basedir}/lib/zap-api-v2-4.jar</zapApiPath>
+    <zapApiPath>/home/milan/git/zap-maven-plugin/zap-maven-plugin/lib/zap-api-v2-4.jar</zapApiPath>
   </properties>
   
   <build>
